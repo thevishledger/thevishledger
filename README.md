@@ -1,8 +1,8 @@
 # Hi, I'm Vishesh Srivastava 👋
 
-**Frontend & MERN Stack Developer** — B.Tech CSE (2026), Vision Institute of Technology (AKTU)
+**Full Stack Developer (MERN Stack)** — B.Tech CSE (2026), Vision Institute of Technology (AKTU)
 
-I build fast, responsive web apps with **React, Next.js, Node.js and MongoDB**. Currently a Web Development Intern at **Thiranex EduTech LLP** (remote). Solved **60+ DSA problems on LeetCode**. Based in Kanpur, India — open to Frontend / Full-Stack fresher roles in Delhi NCR, Bengaluru, Hyderabad and Remote.
+I build fast, responsive web apps with **React, Next.js, Node.js and MongoDB**. Currently a Web Development Intern at **Thiranex EduTech LLP** (remote). Solved **60+ DSA problems on LeetCode**. Based in Kanpur, India — open to Full-Stack / MERN fresher roles in Delhi NCR, Bengaluru, Hyderabad and Remote.
 
 ## 🛠️ Tech Stack
 

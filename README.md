@@ -1,40 +1,101 @@
-# Hi, I'm Vishesh Srivastava 👋
+<div align="center">
 
-**Full Stack Developer (MERN Stack)** — B.Tech CSE (2026), Vision Institute of Technology (AKTU)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=180&section=header&text=Vishesh%20Srivastava&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer%20(MERN%20Stack)&descSize=17&descAlignY=64&animation=twinkling" width="100%"/>
 
-I build fast, responsive web apps with **React, Next.js, Node.js and MongoDB**. Currently a Web Development Intern at **Thiranex EduTech LLP** (remote). Solved **60+ DSA problems on LeetCode**. Based in Kanpur, India — open to Full-Stack / MERN fresher roles in Delhi NCR, Bengaluru, Hyderabad and Remote.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+(MERN);React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;B.Tech+CSE+2026;Open+to+Fresher+Roles" alt="Typing SVG" /></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thevishledger&color=fe428e&style=flat)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%2F%20MERN%20Roles-brightgreen?style=flat&logo=linkedin&logoColor=white)
+
+</div>
+
+## 🙋‍♂️ About Me
+
+- 💼 Web Development Intern at **Thiranex EduTech LLP** (Remote) — building with the MERN stack
+- 🎓 B.Tech CSE (2026), Vision Institute of Technology (AKTU)
+- ⚡ Solved **60+ DSA problems on LeetCode**
+- 🌱 I build fast, responsive, full-stack web apps — from REST APIs to polished UIs
+- 📍 Based in Kanpur, India — open to roles in **Delhi NCR, Bengaluru, Hyderabad & Remote**
+- 📫 Reach me at **visheshsrivastav15@gmail.com**
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<div align="center">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite" alt="Frontend skills" />
+
+**Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman" alt="Backend and tools" />
+
+</div>
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Live Demo |
-|---|---|---|
-| **[MERN URL Shortener](https://github.com/thevishledger/mern-url-shortener)** | Full-stack URL shortener with QR code generation — React, Node.js, Express, MongoDB | [Open app](https://frontend-d1xd.onrender.com) |
-| **[Gemini AI Q&A App](https://github.com/thevishledger/Ai-chat-bot)** | AI chat app powered by the Gemini API — ask questions, get instant answers | [Open app](https://ai-chat-bot-eta-six.vercel.app) |
-| **[React Movie App](https://github.com/thevishledger/MY_MOVIE_APP)** | Movie discovery app with search and rich detail views, built with React | [Open app](https://my-movie-app-qcrs.vercel.app) |
-| **[My Portfolio](https://github.com/thevishledger/my-portfolio)** | My personal portfolio website | [Visit](https://my-portfolio-vishesh.netlify.app) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/thevishledger/mern-url-shortener"><img src="./cover-url-shortener.png" width="100%" alt="MERN URL Shortener"/></a>
+<br/><b><a href="https://github.com/thevishledger/mern-url-shortener">MERN URL Shortener</a></b>
+<br/>Full-stack URL shortener with QR code generation.
+<br/>⚙️ React • Node.js • Express • MongoDB
+<br/>🔗 <a href="https://frontend-d1xd.onrender.com"><b>Live Demo</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/thevishledger/Ai-chat-bot"><img src="./cover-gemini-ai.png" width="100%" alt="Gemini AI Q&A App"/></a>
+<br/><b><a href="https://github.com/thevishledger/Ai-chat-bot">Gemini AI Q&A App</a></b>
+<br/>AI chat app powered by the Gemini API — ask questions, get instant answers.
+<br/>⚙️ React • Gemini API • JavaScript
+<br/>🔗 <a href="https://ai-chat-bot-eta-six.vercel.app"><b>Live Demo</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/thevishledger/MY_MOVIE_APP"><img src="./cover-movie-app.png" width="100%" alt="React Movie App"/></a>
+<br/><b><a href="https://github.com/thevishledger/MY_MOVIE_APP">React Movie App</a></b>
+<br/>Movie discovery app with search and rich detail views.
+<br/>⚙️ React • REST API • CSS
+<br/>🔗 <a href="https://my-movie-app-qcrs.vercel.app"><b>Live Demo</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/thevishledger/my-portfolio"><img src="./cover-portfolio.png" width="100%" alt="My Portfolio"/></a>
+<br/><b><a href="https://github.com/thevishledger/my-portfolio">My Portfolio</a></b>
+<br/>My personal portfolio website — projects, skills and contact.
+<br/>⚙️ React • JavaScript • CSS
+<br/>🔗 <a href="https://my-portfolio-vishesh.netlify.app"><b>Visit Site</b></a>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
-![Vishesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevishledger&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevishledger&layout=compact&theme=tokyonight)
+<div align="center">
 
-## 📫 Connect with me
+<img src="https://github-readme-stats.vercel.app/api?username=thevishledger&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=thevishledger&theme=radical&hide_border=true" height="170" alt="GitHub streak"/>
 
-- 💼 LinkedIn: [linkedin.com/in/vishesh-srivastava-ab6673254](https://www.linkedin.com/in/vishesh-srivastava-ab6673254)
-- 🌐 Portfolio: [my-portfolio-vishesh.netlify.app](https://my-portfolio-vishesh.netlify.app)
-- 📧 Email: visheshsrivastav15@gmail.com
-- 📸 Instagram: [@onlyvisheshs](https://www.instagram.com/onlyvisheshs)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishledger&layout=compact&theme=radical&hide_border=true" height="150" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thevishledger&bg_color=141321&color=a9fef7&line=fe428e&point=ae81ff&area=true&hide_border=true" width="95%" alt="Activity graph"/>
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vishesh-srivastava-ab6673254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://my-portfolio-vishesh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:visheshsrivastav15@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://leetcode.com/u/Visheshsrivastav15"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://www.instagram.com/onlyvisheshs"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=110&section=footer" width="100%"/>
+</div>
